@@ -2,5 +2,15 @@
 	"FileVersion": 3,
 	"EngineAssociation": "{4796831B-46B5-7C43-D056-1BB56BA01B85}",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FPSGameStarterKit2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"TargetPlatforms": [
+		"Windows"
+	]
 }
